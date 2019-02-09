@@ -35,3 +35,5 @@ If you require any help or further information, don't hesitate to contact me.
 * [My Website](https://crleonard.github.io/)
 
 Thanks, Chris!
+
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
