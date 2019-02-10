@@ -2,6 +2,14 @@
 
 This project contains a number of Swift Starter Project Files the basics of Swift.
 
+## Prerequisites
+
+What you will require to run these projects.
+
+* Apple Mac
+* Xcode Pre-Installed
+* Time & Patients
+
 ## Getting Started
 
 * Download the Project
@@ -12,26 +20,26 @@ This project contains a number of Swift Starter Project Files the basics of Swif
 
 * Enjoy
 
-## Prerequisites
+## Content
 
-What you will require to run these projects.
+The series of projects in this repository will be developed using Swift 5.
+Projects have been tested on iPhone XS & iPhone XS Max for screen size.
 
-* Apple Mac
-* Xcode Pre-Installed
-* Time & Patients
+* Simple UIKit
+* UIScrollView, UITableView, UICollectionView
+* Notification (Updated for iOS 12)
+* MapKit, Contact Framework
+* Machine Learning (CoreML) Framework
+* Core Data, Today Extension, and 3D Touch implimentation 
 
 ## Example Projecs
 
-* Lessons will be added soon.
+* Projects will be added soon.
 
 ## NOTE
 
 As this is currently still under development, check out my collection of lessons on getting started with Swift. 
 
 * [Link](https://crleonard.github.io/learn-swift)
-
-
-If you require any help or further information, don't hesitate to contact me. 
-* [My Website](https://crleonard.github.io/)
 
 Thanks, Chris!
