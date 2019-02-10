@@ -13,11 +13,8 @@ What you will require to run these projects.
 ## Getting Started
 
 * Download the Project
-
 * Open the Folder, you will now see each of the project files.
-
 * Open the Project you wish to tackel.
-
 * Enjoy
 
 ## Content
@@ -34,7 +31,7 @@ Projects have been tested on iPhone XS & iPhone XS Max for screen size.
 
 ## Example Projecs
 
-* Project 1 - Stopwatch
+* Project 1 - Simple Stopwatch
 
 ## NOTE
 
