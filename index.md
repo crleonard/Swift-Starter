@@ -34,7 +34,7 @@ Projects have been tested on iPhone XS & iPhone XS Max for screen size.
 
 ## Example Projecs
 
-* Projects will be added soon.
+* Project 1 - Stopwatch
 
 ## NOTE
 
