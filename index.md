@@ -31,7 +31,7 @@ Projects have been tested on iPhone XS & iPhone XS Max for screen size.
 
 ## Example Projecs
 
-* Project 1 - Simple Stopwatch
+* Project 1 - [Simple Stopwatch](https://github.com/crleonard/swift-starter/blob/master/Project%2001%20-%20Stopwatch.zip)
 
 ## NOTE
 
