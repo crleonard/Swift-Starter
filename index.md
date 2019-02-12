@@ -17,6 +17,8 @@ What you will require to run these projects.
 * Open the Project you wish to tackel.
 * Enjoy
 
+If you need a little help navigatign Xcode, check out this help sheet of the useful keyboaed shortcuts [here](https://github.com/crleonard/swift-starter/blob/master/XcodeShortcuts.pdf).
+
 ## Content
 
 The series of projects in this repository will be developed using Swift 5.
